@@ -1,1 +1,1 @@
-web: java -jar build/libs/ktor-sample-0.0.1-all.jar
+web: java -jar build/libs/ktor-graphql-server-0.0.1-all.jar
